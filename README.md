@@ -12,8 +12,8 @@ RMR2
 https://mailtrap.io/
 
 ## Quản lý task
-trello
-clickup
-jira
-githup with zenhub
-github with projects
+- trello
+- clickup
+- jira
+- githup with zenhub
+- github with projects
