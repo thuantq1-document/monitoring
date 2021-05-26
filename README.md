@@ -38,3 +38,7 @@ https://mailtrap.io/
 - Putty
 - Xftp
 - Xshell
+
+## Php
+- Xampp
+- Laragon
