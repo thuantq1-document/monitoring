@@ -29,3 +29,6 @@ https://mailtrap.io/
 ## Code nodejs, reactjs
 - Vscode
 - Webstorm
+
+## CI/CD
+- Jenkins
