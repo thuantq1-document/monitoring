@@ -11,9 +11,13 @@ RMR2
 ## Send draft mail
 https://mailtrap.io/
 
-## Quản lý task
+## Management task
 - trello
 - clickup
 - jira
 - githup with zenhub
 - github with projects
+
+## Management source code, document
+- svn
+- git
