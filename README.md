@@ -32,3 +32,9 @@ https://mailtrap.io/
 
 ## CI/CD
 - Jenkins
+
+## Remote
+- Bitvise
+- Putty
+- Xftp
+- Xshell
