@@ -38,6 +38,7 @@ https://mailtrap.io/
 - Putty
 - Xftp
 - Xshell
+- Winscp
 
 ## Php
 - Xampp
