@@ -49,3 +49,6 @@ https://mailtrap.io/
 
 ## Test performance
 - Jmeter
+
+## Diagram
+- https://app.diagrams.net/
