@@ -53,3 +53,4 @@ https://mailtrap.io/
 ## Diagram
 - https://app.diagrams.net/
 - https://cacoo.com/
+- https://online.visual-paradigm.com/
